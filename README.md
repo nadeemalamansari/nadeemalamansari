@@ -1,6 +1,6 @@
 # 👋 Nadeem Alam Ansari 
 **`Machine Learning Engineer | Full-Stack Developer | Data Scientist`**  
-📍 Pune, India | 📧 nadeemalamansari7@gmail.com | 📞 +91 72752 85686  
+📍 Pune, India | 📧 nadeem06031999@gmail.com | 📞 +91 72752 85686  
 
 <p align="center">
   <a href="https://linkedin.com/in/nadeem-alam-ansari" target="_blank">
