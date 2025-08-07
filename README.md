@@ -4,7 +4,7 @@
 **`Machine Learning Engineer | Full-Stack Developer | Cloud Enthusiast`**  
 📍 Pune, India | 📧 nadeem06031999@gmail.com | 📞 +91 72752 85686  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/nadeem-alam-ansari](https://www.linkedin.com/in/nadeem-alam-ansari-1911112a0/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nadeem-alam-ansari-1911112a0/)](https://www.linkedin.com/in/nadeem-alam-ansari-1911112a0/))
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nadeem06031999/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20Projects-black?style=for-the-badge&logo=github)](https://github.com/nadeemalamansari?tab=repositories)
 
