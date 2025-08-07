@@ -91,33 +91,7 @@
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemalamansari&theme=merko&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
-## 📈 GitHub Performance Metrics
 
-<p align="center">
-  <a href="https://github.com/nadeemalamansari?tab=repositories">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nadeemalamansari&show_icons=true&theme=professional&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered&hide=issues&card_width=495" alt="Productivity Analytics"/>
-  </a>
-  <a href="https://github.com/nadeemalamansari?tab=repositories">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemalamansari&theme=professional&hide_border=true&fire=DD472B&ring=DD472B&background=FFFFFF00&dates=5C5C5C" alt="Commit Consistency"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nadeemalamansari?tab=repositories">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemalamansari&theme=react-dark&hide_border=true&area=true&custom_title=Weekly%20Contribution%20Heatmap&hide_title=false" alt="Activity Graph"/>
-  </a>
-</p>
-
-### Key Development Metrics:
-✔ **10,000+** Lines of meaningful code contributions  
-✔ **98%** Repository maintenance score  
-✔ **50+** Weekly average commits  
-✔ **5** Active projects in development  
-✔ **100%** Documentation completeness  
-
-<p align="center">
-  <small>Metrics updated hourly • Last refresh: <b>${new Date().toLocaleString()}</b></small>
-</p>
 ---
 
 ## 🎓 Education
