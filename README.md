@@ -1,107 +1,120 @@
-# 💻 Hi, I'm Nadeem Alam Ansari 
-**`Data Science Enthusiast | Full-Stack Developer | Problem Solver`**
-
-<p align="left">
-  <a href="https://twitter.com/ndmalamansari" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ndmalamansari?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
-  </a>
-  <a href="https://linkedin.com/in/nadeem-alam-ansari">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nadeemalamansari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-## 🚀 About Me
-Passionate software engineer with expertise in building scalable applications and solving real-world problems. Currently pursuing B.Tech in IT from AKTU with hands-on experience in:
-- **Full-Stack Development** (Django, React, REST APIs)
-- **Data Science & ML** (TensorFlow, Pandas, Scikit-learn)
-- **Cloud Technologies** (AWS, GCP)
-
-**Fun Fact:** Completed 160 consecutive days of coding on GeeksforGeeks! 🏆
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 1. Weather App (API-Based)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenWeatherAPI](https://img.shields.io/badge/OpenWeather-EE6666?style=flat&logo=openweathermap&logoColor=white)
-- Real-time weather forecasting with dynamic city search
-- Responsive UI built with React.js
-
-### 2. Stock Price Prediction (LSTM Model)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-- Time-series forecasting with 85% accuracy
-- Feature engineering and hyperparameter tuning
-
-### 3. Blood Bank Management System
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-- Role-based access for hospitals/donors
-- Secure authentication and inventory management
-
----
-
-## 💼 Professional Experience
-
-### Web Development Intern @ Blueplanet Infosolution
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-- Developed responsive web apps using React.js
-- Improved UI/UX resulting in 25% engagement boost
-- Integrated RESTful APIs with Django backend
-
-### Python Developer Intern @ Techoctanet Services
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- Built scalable Django REST APIs
-- Automated tasks reducing manual effort by 30%
-
----
-
-## 📊 GitHub Stats
+# 👋 Nadeem Alam Ansari 
+**`Machine Learning Engineer | Full-Stack Developer | Data Scientist`**  
+📍 Pune, India | 📧 nadeemalamansari7@gmail.com | 📞 +91 72752 85686  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nadeemalamansari&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemalamansari&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemalamansari&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📫 Let's Connect!
-<p align="left">
+  <a href="https://linkedin.com/in/nadeem-alam-ansari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/nadeem06031999" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/nadeemalamansari?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:nadeemalamansari7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/nadeem-alam-ansari">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/nadeem06031999">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 Career Highlights
+
+✔ **2+ Years** hands-on experience in **Python, Machine Learning, and Web Development**  
+✔ Built **10+ production-grade projects** with measurable impact  
+✔ **160-day coding streak** on GeeksforGeeks (Top 1% consistency)  
+✔ **25% user engagement boost** achieved through UI/UX optimization  
+✔ **30% process automation** via Python scripting  
+
+---
+
+## 💼 Core Competencies
+
+### 🔧 Technical Skills
+**Machine Learning**  
+`TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `OpenCV` `Time Series Forecasting` `Computer Vision`
+
+**Web Development**  
+`Django` `Flask` `React.js` `REST APIs` `HTML5` `CSS3` `Bootstrap`
+
+**Data Engineering**  
+`SQL` `MySQL` `PostgreSQL` `MongoDB` `AWS` `GCP` `Docker`
+
+### 🎯 Professional Skills
+`Problem Solving` `Data Analysis` `Agile Development` `CI/CD Pipelines` `Cross-functional Collaboration`
+
+---
+
+## 🏆 Top Projects
+
+### 1. Stock Price Prediction (LSTM Model) [[Code]](https://github.com/nadeemalamansari/Stock-Price-Prediction-Model-Time-Series-Forecasting-)
+✅ **20% accuracy improvement** through hyperparameter tuning  
+✅ Implemented multivariate time-series forecasting  
+✅ Technologies: `Python` `TensorFlow` `LSTM` `Pandas`
+
+### 2. Blood Bank Management System [[Code]](https://github.com/nadeemalamansari/Blood-Bank-Management-System-Django)
+✅ Role-based access control for hospitals/donors  
+✅ Reduced blood search time by **40%**  
+✅ Technologies: `Django` `PostgreSQL` `Bootstrap`
+
+### 3. Customer Segmentation (K-Means) [[Code]](https://github.com/nadeemalamansari/Customer-Segmentation-using-K-Means-Clustering)
+✅ Identified **5 distinct customer personas**  
+✅ Visualized clusters using PCA dimensionality reduction  
+✅ Technologies: `Scikit-learn` `Matplotlib` `Seaborn`
+### 4. and many more projects, please check the repository
+---
+
+## 💻 Work Experience
+
+**Python Developer Intern** @ Techoctanet Services  
+`Jul 2023 - Present` | Pune, India  
+✔ Developed REST APIs improving backend performance by **35%**  
+✔ Automated manual processes saving **30+ hours/month**  
+✔ Implemented logging system with **log4j**
+
+**Web Development Intern** @ Blueplanet Infosolution  
+`Jan 2023 - Jun 2023` | Remote  
+✔ Enhanced UI/UX increasing user engagement by **25%**  
+✔ Integrated **3+ third-party APIs** for payment/sms services  
+✔ Reduced page load time by **15%**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nadeemalamansari&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemalamansari&theme=merko&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemalamansari&theme=merko&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🎓 Education
+**B.Tech in Information Technology**  
+Dr. A.P.J. Abdul Kalam Technical University  
+`2022 - 2025` | CGPA: 7.53  
+
+**B.Sc in Mathematics & Physics**  
+Deen Dayal Upadhyay Gorakhpur University  
+`2016 - 2019` | Percentage: 57.83%
+
+---
+
+## 📜 Certifications
+• 160 Days of Code - GeeksforGeeks  
+• Python for Data Science - Coursera  
+• AWS Cloud Practitioner (In Progress)
+
+---
+
+## 📬 Let's Talk Opportunities!
+<p align="center">
+  <a href="mailto:nadeemalamansari7@gmail.com?subject=Opportunity%20Discussion">
+    <img src="https://img.shields.io/badge/HIRING%20MANAGERS-Click%20to%20Email-%23007ec6?style=for-the-badge&logo=microsoft-outlook"/>
   </a>
 </p>
