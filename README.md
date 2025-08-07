@@ -4,12 +4,12 @@
 **`Machine Learning Engineer | Full-Stack Developer | Cloud Enthusiast`**  
 📍 Pune, India | 📧 nadeem06031999@gmail.com | 📞 +91 72752 85686  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nadeem-alam-ansari-1911112a0/)](https://www.linkedin.com/in/nadeem-alam-ansari-1911112a0/))
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nadeem06031999/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20Projects-black?style=for-the-badge&logo=github)](https://github.com/nadeemalamansari?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nadeem-alam-ansari-1911112a0/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/nadeem06031999/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Coding%20Challenges-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/nadeem06031999)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/nadeemalamansari?tab=repositories)
 
-![Header GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWg1eGx5Z3F6d2N2eWZ6b2JtN2N2a2R5c2VqZGNjY3Z1eGZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
-
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWg1eGx5Z3F6d2N2eWZ6b2JtN2N2a2R5c2VqZGNjY3Z1eGZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 </div>
 
 ---
